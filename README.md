@@ -1,0 +1,2 @@
+# armazenamnto
+repoisção de diretorios
